@@ -1,0 +1,3 @@
+pyinstaller --onefile news.spiders.run_spiders.py
+To checkout the file
+python -m news.spiders.run_spiders
